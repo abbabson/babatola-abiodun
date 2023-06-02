@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/babatola-abiodun/static/css/main.e37b2d3a.css",
+    "main.js": "/babatola-abiodun/static/js/main.d8cd4d6b.js",
+    "static/js/787.9a033754.chunk.js": "/babatola-abiodun/static/js/787.9a033754.chunk.js",
+    "static/media/work4.png": "/babatola-abiodun/static/media/work4.2251beeb311d68db7b05.png",
+    "static/media/work3.png": "/babatola-abiodun/static/media/work3.56e494d75198ffa70230.png",
+    "static/media/work1.png": "/babatola-abiodun/static/media/work1.dc654b1f7951eae382a7.png",
+    "static/media/work2.png": "/babatola-abiodun/static/media/work2.8d52719a32284ddf1b94.png",
+    "static/media/babatola_resume.docx": "/babatola-abiodun/static/media/babatola_resume.e9db01d97a66782478db.docx",
+    "static/media/profile_b.JPG": "/babatola-abiodun/static/media/profile_b.8214890cb087e9b01fa2.JPG",
+    "index.html": "/babatola-abiodun/index.html",
+    "main.e37b2d3a.css.map": "/babatola-abiodun/static/css/main.e37b2d3a.css.map",
+    "main.d8cd4d6b.js.map": "/babatola-abiodun/static/js/main.d8cd4d6b.js.map",
+    "787.9a033754.chunk.js.map": "/babatola-abiodun/static/js/787.9a033754.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e37b2d3a.css",
+    "static/js/main.d8cd4d6b.js"
+  ]
+}
